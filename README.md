@@ -1,19 +1,25 @@
-# AquaImob – Gestão em Condomínios
+# PROJETO ZABBIX 7.0 LTS HA
+Apresentação de solução para monitoramento Zabbix- Suporte N3
 
-![Logo do Projeto](https://drive.google.com/uc?export=view&id=0B6JvSOKmoDXnZjk1aXdabHUwTXZ1SDB1UUhtQVpWSFBabTZv)
+![Logo do Projeto](https://astraya-associacao.org/imagens/zabbix1.png?_t=1767805587)
 
-Sistema para gerenciamento de condomínios, incluindo controle de usuários, apartamentos, eventos, documentos e notificações.
-
----
-
-## 📊 Modelo do Banco de Dados
-
-![Modelo Relacional](https://drive.google.com/uc?export=view&id=0B6JvSOKmoDXnZjk1aXdabHUwTXZ1SDB1UUhtQVpWSFBabTZv)
-
-Este diagrama representa a estrutura relacional do banco de dados para o sistema **AquaImob**, desenvolvido pela **Aquarius Inc. Soluções em Tecnologia**.
+Sistema para monitoramento NOC N3.
 
 ---
+## 🛠️ Tecnologias Utilizadas
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Modelo Relacional](https://astraya-associacao.org/imagens/zabbix2.png?_t=1767805587)
+
+Este diagrama representa a estrutura desenvolvida para solução em monitoramento.
+
+---
+## 📊 Topologia
+![Modelo](https://astraya-associacao.org/imagens/zabbix3.png?_t=1767805587)
 ## 🚀 Funcionalidades
 
 - Cadastro de usuários e funcionários
@@ -24,12 +30,7 @@ Este diagrama representa a estrutura relacional do banco de dados para o sistema
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
