@@ -38,7 +38,3 @@ em HA. No modo de alta disponibilidade do Zabbix, múltiplos servidores Zabbix s
 
 
 ---
-
-
-## 📄 Licença
-Este projeto é licenciado sob a [MIT License](LICENSE).
